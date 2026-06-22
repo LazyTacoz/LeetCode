@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/LazyTacoz/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 <!---LeetCode Topics End-->
