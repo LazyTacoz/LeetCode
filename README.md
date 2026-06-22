@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
+| [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/LazyTacoz/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
