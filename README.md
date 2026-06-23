@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0001-two-sum) |
+| [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0001-two-sum) |
+| [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
@@ -24,6 +26,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -48,6 +51,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
