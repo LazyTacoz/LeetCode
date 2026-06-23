@@ -1,19 +1,23 @@
 class Solution {
     public int findMaximizedCapital(int k, int w, int[] profits, int[] capital) {
         
-        // TO OPTIMIZE .we have to create maxheap for capital->profit
-        PriorityQueue<int[]> minheap = new PriorityQueue<>((a,b)->a[0]-b[0]);
+        // TO OPTIMIZE  have to create minheap for capital->profit
+        // maxheap for geeting max prfit 
+        int arr[][] = new int[capital.length][2];
         PriorityQueue<Integer> maxheap = new PriorityQueue<>(Collections.reverseOrder());
-        int[] arr = new int[2];
-        for(int i=0; i<capital.length;i++)
-        {
-            minheap.add(new int[]{capital[i],profits[i]});
+        for(int i = 0; i<profits.length; i++) {
+            arr[i][0] = profits[i];
+            arr[i][1] = capital[i];
         }
+        Arrays.sort(arr, (a,b) -> a[1] - b[1]);
+        int temp = -1;
         for(int i=0; i<k; i++)
         {
-            while(!minheap.isEmpty() && minheap.peek()[0]<=w)
+            while(temp+1 < profits.length && arr[temp+1][1] <= w)
             {
-                maxheap.offer(minheap.poll()[1]);
+                temp++;
+                maxheap.add(arr[temp][0]);
+                
             }
             if(maxheap.isEmpty())
             {
