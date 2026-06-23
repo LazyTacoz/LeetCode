@@ -8,6 +8,7 @@
 | [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
+| [0986-interval-list-intersections](https://github.com/LazyTacoz/LeetCode/tree/master/0986-interval-list-intersections) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0986-interval-list-intersections](https://github.com/LazyTacoz/LeetCode/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
 | ------- |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/LazyTacoz/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
