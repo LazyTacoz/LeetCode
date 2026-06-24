@@ -47,10 +47,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/LazyTacoz/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/LazyTacoz/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/LazyTacoz/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0986-interval-list-intersections](https://github.com/LazyTacoz/LeetCode/tree/master/0986-interval-list-intersections) |
 ## String
