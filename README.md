@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LazyTacoz/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/LazyTacoz/LeetCode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Two Pointers
 |  |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/LazyTacoz/LeetCode/tree/master/0986-interval-list-intersections) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
