@@ -6,7 +6,7 @@ class Solution {
             heap.add(new int[]{matrix[i][0],i,0});
         }
         int size =0;
-        int []arr = new int[k];
+        int []arr = new int[3];
         while(!heap.isEmpty())
         {
             
