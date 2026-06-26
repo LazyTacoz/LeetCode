@@ -8,29 +8,29 @@ class Solution {
         // first elemet is fixed(0,0) , the only next two possible are (1,0),(0,1), (0,1) better then , next availabke are (1,0),(1,1),(0,2)
         // store sum, i, j
         PriorityQueue<int[]> heap = new PriorityQueue<>((a,b)->a[0]-b[0]);
-        Set<List<Integer>> set = new HashSet<>();
+        Set<Pair<Integer,Integer>> set = new HashSet<>();
         int i=0;
         int j=0;
         heap.add(new int[]{nums1[i]+nums2[j],i,j});
-        set.add(Arrays.asList(i,j));
+        set.add(new Pair<>(i,j));
         List<List<Integer>> ans = new ArrayList<>();
         for(int x=0;x<k;x++)
         {
             int arr[] = heap.poll();
             int a = arr[1];
             int b = arr[2];
-            set.add(Arrays.asList(a,b));
+            set.add(new Pair<>(a,b));
             ans.add(Arrays.asList(nums1[arr[1]],nums2[arr[2]]));
             
-            if(arr[1]<nums1.length-1 && !set.contains(Arrays.asList(a+1,b)))
+            if(arr[1]<nums1.length-1 && !set.contains(new Pair<>(a+1,b)))
             {
             heap.add(new int[]{nums1[a+1]+nums2[b],a+1,b});
-            set.add(Arrays.asList(a+1,b));
+            set.add(new Pair<>(a+1,b));
             }
-            if(arr[2]<nums2.length-1 && !set.contains(Arrays.asList(a,b+1)))
+            if(arr[2]<nums2.length-1 && !set.contains(new Pair<>(a,b+1)))
             {
             heap.add(new int[]{nums1[a]+nums2[b+1],a,b+1}); 
-            set.add(Arrays.asList(a,b+1));  
+            set.add(new Pair<>(a,b+1));  
             }
         }
         return ans;
