@@ -1,23 +1,29 @@
 class Solution {
     public int[] findRightInterval(int[][] intervals) {
-        //start i unique
         int[] arr = new int[intervals.length];
         for(int i=0;i<arr.length;i++)
         {
             arr[i] = -1;
         }
+        PriorityQueue<int[]> heap_start = new PriorityQueue<>((a,b)->a[0]-b[0]);
+        PriorityQueue<int[]> heap_end = new PriorityQueue<>((a,b)->a[0]-b[0]);
         for(int i=0;i<intervals.length;i++)
         {
-            int end = intervals[i][1];
-            int min = Integer.MAX_VALUE;
-            for(int j =0; j<intervals.length; j++)
+            heap_start.add(new int[]{intervals[i][0],i});
+            heap_end.add(new int[]{intervals[i][1],i});
+        }
+        while(!heap_start.isEmpty() && !heap_end.isEmpty())
+        {
+            int temp[] = heap_end.poll();
+            int end  = temp[0];
+            while(!heap_start.isEmpty() && end > heap_start.peek()[0])
             {
-                int start = intervals[j][0];
-                if(start>=end && min>=start )
-                {
-                        min = start;
-                        arr[i] = j;   
-                }
+                heap_start.poll();
+            }
+            
+            if(!heap_start.isEmpty())
+            {
+                arr[temp[1]] = heap_start.peek()[1];
             }
         }
         return arr;
