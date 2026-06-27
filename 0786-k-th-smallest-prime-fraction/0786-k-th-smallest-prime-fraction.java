@@ -25,12 +25,12 @@ class Solution {
             int num_idx = temp[0];
             int den_idx = temp[1];
             ans  = new int[]{arr[num_idx],arr[den_idx]};
-            if(!set.contains(new Pair<>(num_idx+1,den_idx)) && num_idx+1<arr.length)
+            if(num_idx+1<den_idx && !set.contains(new Pair<>(num_idx+1,den_idx)) && num_idx+1<arr.length)
             {
                 heap.add(new int[]{num_idx+1,den_idx});
                 set.add(new Pair<>(num_idx+1,den_idx));
             }
-            if(!set.contains(new Pair<>(num_idx,den_idx-1)) && den_idx-1>-1)
+            if(num_idx<den_idx-1 && !set.contains(new Pair<>(num_idx,den_idx-1)) && den_idx-1>-1)
             {
                 heap.add(new int[]{num_idx,den_idx-1});
                 set.add(new Pair<>(num_idx,den_idx-1));
