@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LazyTacoz/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
@@ -121,8 +122,10 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
 <!---LeetCode Topics End-->
