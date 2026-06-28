@@ -10,6 +10,10 @@ class Solution {
         }
         for(int i=k; i<nums.length; i++)
         {
+            if(nums[i]<heap.peek())
+            {
+                continue;
+            }
             heap.add(nums[i]);
             heap.poll();
         }
