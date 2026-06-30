@@ -1,24 +1,34 @@
 class KthLargest {
-    List<Integer> list  = new ArrayList<>();
     int kth;
+    PriorityQueue <Integer> heap;
     public KthLargest(int k, int[] nums) {
-        list  = new ArrayList<Integer>();
+        heap = new PriorityQueue<Integer>();
         kth = k;
         for(int i=0; i<nums.length; i++)
         {
-            list.add(nums[i]);
+            add(nums[i]);
         }
     }
     
     public int add(int val) {
 
-        list.add(val);
-        Collections.sort(list);
-        if(list.size()>kth-1) 
+        
+        if(heap.size()<kth)
         {
-            return list.get(list.size()-kth);
+            heap.add(val);
+        }
+        else if(val>heap.peek())
+        {
+            heap.poll();
+            heap.add(val);
+        }
+        
+        if(heap.size()==kth)
+        {
+            return heap.peek();
         }
         return 0;
+
     }
 
 }
