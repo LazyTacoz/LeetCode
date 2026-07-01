@@ -16,6 +16,7 @@
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/LazyTacoz/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/LazyTacoz/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1792-maximum-average-pass-ratio](https://github.com/LazyTacoz/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
@@ -48,6 +49,7 @@
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LazyTacoz/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/LazyTacoz/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1792-maximum-average-pass-ratio](https://github.com/LazyTacoz/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 ## Counting
@@ -125,6 +128,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LazyTacoz/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -134,6 +138,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
+| [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +149,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LazyTacoz/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -168,4 +174,8 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LazyTacoz/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
