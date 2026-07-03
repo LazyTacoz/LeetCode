@@ -25,6 +25,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/LazyTacoz/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/LazyTacoz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/LazyTacoz/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/LazyTacoz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/LazyTacoz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,4 +202,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/LazyTacoz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
