@@ -11,6 +11,7 @@
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LazyTacoz/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/LazyTacoz/LeetCode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
@@ -50,6 +51,7 @@
 | [0242-valid-anagram](https://github.com/LazyTacoz/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/LazyTacoz/LeetCode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
