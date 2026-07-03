@@ -20,6 +20,7 @@
 | [0986-interval-list-intersections](https://github.com/LazyTacoz/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/LazyTacoz/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1792-maximum-average-pass-ratio](https://github.com/LazyTacoz/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Hash Table
@@ -52,6 +53,7 @@
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -70,6 +72,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/LazyTacoz/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1792-maximum-average-pass-ratio](https://github.com/LazyTacoz/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Counting
 |  |
@@ -98,6 +101,7 @@
 | [0242-valid-anagram](https://github.com/LazyTacoz/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/LazyTacoz/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +137,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/LazyTacoz/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -154,6 +159,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/LazyTacoz/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
