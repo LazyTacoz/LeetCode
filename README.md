@@ -24,6 +24,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/LazyTacoz/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
 | [1792-maximum-average-pass-ratio](https://github.com/LazyTacoz/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/LazyTacoz/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/LazyTacoz/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/LazyTacoz/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Counting
 |  |
 | ------- |
