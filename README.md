@@ -24,6 +24,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/LazyTacoz/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2233-maximum-product-after-k-increments](https://github.com/LazyTacoz/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/LazyTacoz/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/LazyTacoz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -48,6 +49,7 @@
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/LazyTacoz/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1792-maximum-average-pass-ratio](https://github.com/LazyTacoz/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
+| [2233-maximum-product-after-k-increments](https://github.com/LazyTacoz/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/LazyTacoz/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/LazyTacoz/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2233-maximum-product-after-k-increments](https://github.com/LazyTacoz/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/LazyTacoz/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/LazyTacoz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Counting
