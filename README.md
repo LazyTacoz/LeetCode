@@ -16,6 +16,7 @@
 | [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/LazyTacoz/LeetCode/tree/master/0986-interval-list-intersections) |
@@ -37,6 +38,7 @@
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/LazyTacoz/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -45,6 +47,7 @@
 | ------- |
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/LazyTacoz/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -63,6 +66,7 @@
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -81,6 +85,7 @@
 | [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LazyTacoz/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -134,6 +139,7 @@
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
