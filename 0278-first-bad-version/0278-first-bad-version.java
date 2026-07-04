@@ -4,20 +4,41 @@
 public class Solution extends VersionControl {
     public int firstBadVersion(int n) {
         // f f f t t
-        int low = 0;
+      int low = 0;
+      int high = n;
+      int ans = -1;
+      while(low<=high)
+      {
+        int mid = low+(high-low)/2;
+        if(isBadVersion(mid) == true)
+        {
+            ans = mid;
+            high = mid-1;
+        }
+        else
+        {
+            low  = mid+1;
+        }
+        
+      }
+      return ans;
+    }
+}
+/*
+  int low = 0;
         int high = n;
         while(low<high)
         {
             int mid = low +(high-low)/2;
             if(isBadVersion(mid) == false)
             {
-                low = mid+1;
+                low = mid;
             }
             else
             {
-                high = mid;
+                high = mid-1;
             }
         }
         return low;
-    }
-}
+
+        */
