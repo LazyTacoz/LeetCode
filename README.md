@@ -137,6 +137,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0278-first-bad-version](https://github.com/LazyTacoz/LeetCode/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/LazyTacoz/LeetCode/tree/master/0704-binary-search) |
@@ -227,4 +228,8 @@
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/LazyTacoz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/LazyTacoz/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
