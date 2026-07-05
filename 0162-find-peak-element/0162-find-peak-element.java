@@ -17,3 +17,8 @@ class Solution {
         return low;
     }
 }
+/*arr = [3, 2, 1]
+mid = 1, arr[mid] = 2
+arr[mid] > arr[mid+1] → 2 > 1 ✅
+But peak is at index 0, not index 1
+*/
