@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/LazyTacoz/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LazyTacoz/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/LazyTacoz/LeetCode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/LazyTacoz/LeetCode/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
