@@ -17,6 +17,7 @@
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
+| [0540-single-element-in-a-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0704-binary-search](https://github.com/LazyTacoz/LeetCode/tree/master/0704-binary-search) |
@@ -143,6 +144,7 @@
 | [0278-first-bad-version](https://github.com/LazyTacoz/LeetCode/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/LazyTacoz/LeetCode/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
