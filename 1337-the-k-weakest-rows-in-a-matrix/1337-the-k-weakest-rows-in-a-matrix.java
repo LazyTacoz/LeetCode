@@ -16,33 +16,41 @@ class Solution {
        PriorityQueue<int[]> heap = new PriorityQueue<>((a,b)-> a[0] != b[0] ? b[0] -a[0] : b[1]-a[1]);
        for(int i=0; i<mat.length; i++)
        {
-        int count = 0;
-            for(int j=0; j<mat[i].length; j++)
+        int low = 0;
+        int high = mat[i].length-1;
+        int ans = mat[i].length;
+        while(low<=high)
+        {
+            int mid  = low+(high-low)/2;
+            if(mat[i][mid] == 0)
             {
-                if(mat[i][j] == 0)
-                {
-                    break;
-                }
-                count++;
+                high = mid-1;
+                ans = mid;
             }
+            else
+            {
+                low = mid+1;
+            }
+        }
             if(heap.size()<k)
             {
-                heap.add(new int[]{count,i});
+                heap.add(new int[]{ans,i});
             }
-            else if(heap.peek()[0]>count)
+            else if(heap.peek()[0] > ans || 
+       (    heap.peek()[0] == ans && heap.peek()[1] > i))
             {
                 heap.poll();
-                heap.add(new int[]{count,i});
+                heap.add(new int[]{ans,i});
             }
        }    
-            int[] ans = new int[k];
+            int[] res = new int[k];
             int x = k-1;
         while(!heap.isEmpty())
         {
-            ans[x] = heap.poll()[1];
+            res[x] = heap.poll()[1];
             x--;
         }
-        return ans ;
+        return res ;
        
     }
 }
