@@ -23,6 +23,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/LazyTacoz/LeetCode/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -76,6 +77,7 @@
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -97,6 +99,7 @@
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LazyTacoz/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -130,6 +133,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LazyTacoz/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/LazyTacoz/LeetCode/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0986-interval-list-intersections](https://github.com/LazyTacoz/LeetCode/tree/master/0986-interval-list-intersections) |
@@ -155,6 +159,7 @@
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
 | [0528-random-pick-with-weight](https://github.com/LazyTacoz/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/LazyTacoz/LeetCode/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -164,6 +169,7 @@
 | ------- |
 | [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
