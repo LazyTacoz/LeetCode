@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/LazyTacoz/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -206,6 +207,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/LazyTacoz/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/LazyTacoz/LeetCode/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
