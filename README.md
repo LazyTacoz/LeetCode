@@ -39,6 +39,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2233-maximum-product-after-k-increments](https://github.com/LazyTacoz/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/LazyTacoz/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/LazyTacoz/LeetCode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/LazyTacoz/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -56,6 +57,7 @@
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/LazyTacoz/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/LazyTacoz/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/LazyTacoz/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/LazyTacoz/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/LazyTacoz/LeetCode/tree/master/3478-choose-k-elements-with-maximum-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -172,6 +175,7 @@
 | [0875-koko-eating-bananas](https://github.com/LazyTacoz/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/LazyTacoz/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/LazyTacoz/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
@@ -184,6 +188,7 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/LazyTacoz/LeetCode/tree/master/0528-random-pick-with-weight) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/LazyTacoz/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sweep Line
 |  |
@@ -273,4 +278,8 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/LazyTacoz/LeetCode/tree/master/0528-random-pick-with-weight) |
+## Ordered Set
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/LazyTacoz/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
