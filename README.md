@@ -32,6 +32,7 @@
 | [0875-koko-eating-bananas](https://github.com/LazyTacoz/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/LazyTacoz/LeetCode/tree/master/0986-interval-list-intersections) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/LazyTacoz/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/LazyTacoz/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/LazyTacoz/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -173,6 +174,7 @@
 | [0704-binary-search](https://github.com/LazyTacoz/LeetCode/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/LazyTacoz/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/LazyTacoz/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/LazyTacoz/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/LazyTacoz/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/LazyTacoz/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
