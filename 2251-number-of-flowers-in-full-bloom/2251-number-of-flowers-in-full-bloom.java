@@ -24,7 +24,33 @@ class Solution {
                 res[j] = 0;
                 continue;
             }
-            for(int k=1; k<flowersData.length;k++)
+            if(time>=flowersData[flowersData.length-1][0])
+            {
+                res[j] = 0;
+                continue;
+            }
+            int low = 0;
+            int high = flowersData.length-1;
+            while(low<high)
+            {
+                int mid = low+(high-low)/2;
+                if(flowersData[mid][0]>time)
+                {
+                    high = mid;
+                }
+                else
+                {
+                    low = mid+1;
+                }
+            }
+
+            res[j] = flowersData[low-1][1];
+        }
+
+        return res;
+    }
+}
+/*for(int k=1; k<flowersData.length;k++)
             {
                 if(time == flowersData[k][0])
                 {
@@ -36,8 +62,4 @@ class Solution {
                     res[j] = flowersData[k-1][1];
                     break;
                 }
-            }
-        }
-        return res;
-    }
-}
+*/
