@@ -18,6 +18,7 @@
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LazyTacoz/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/LazyTacoz/LeetCode/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
@@ -62,6 +63,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/LazyTacoz/LeetCode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/LazyTacoz/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -167,6 +169,7 @@
 | [0162-find-peak-element](https://github.com/LazyTacoz/LeetCode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/LazyTacoz/LeetCode/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/LazyTacoz/LeetCode/tree/master/0436-find-right-interval) |
 | [0528-random-pick-with-weight](https://github.com/LazyTacoz/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -189,6 +192,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/LazyTacoz/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/LazyTacoz/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/LazyTacoz/LeetCode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -233,6 +237,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
+| [0410-split-array-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Quickselect
 |  |
 | ------- |
