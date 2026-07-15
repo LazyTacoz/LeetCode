@@ -14,6 +14,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/LazyTacoz/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LazyTacoz/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/LazyTacoz/LeetCode/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LazyTacoz/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -52,6 +53,7 @@
 | [0001-two-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/LazyTacoz/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/LazyTacoz/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/LazyTacoz/LeetCode/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/LazyTacoz/LeetCode/tree/master/0621-task-scheduler) |
@@ -80,6 +82,7 @@
 | [0088-merge-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LazyTacoz/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/LazyTacoz/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/LazyTacoz/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/LazyTacoz/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/LazyTacoz/LeetCode/tree/master/0414-third-maximum-number) |
@@ -168,6 +171,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/LazyTacoz/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/LazyTacoz/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/LazyTacoz/LeetCode/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/LazyTacoz/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -228,6 +232,7 @@
 | [0066-plus-one](https://github.com/LazyTacoz/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/LazyTacoz/LeetCode/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/LazyTacoz/LeetCode/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
 | [0528-random-pick-with-weight](https://github.com/LazyTacoz/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/LazyTacoz/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -294,4 +299,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LazyTacoz/LeetCode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/LazyTacoz/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
