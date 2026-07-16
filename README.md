@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/LazyTacoz/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/LazyTacoz/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/LazyTacoz/LeetCode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/LazyTacoz/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/LazyTacoz/LeetCode/tree/master/0268-missing-number) |
