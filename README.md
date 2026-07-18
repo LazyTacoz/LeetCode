@@ -241,6 +241,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/LazyTacoz/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/LazyTacoz/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/LazyTacoz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/LazyTacoz/LeetCode/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
@@ -252,6 +253,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/LazyTacoz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/LazyTacoz/LeetCode/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/LazyTacoz/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -336,5 +338,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/LazyTacoz/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/LazyTacoz/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
