@@ -164,6 +164,7 @@
 | [0020-valid-parentheses](https://github.com/LazyTacoz/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/LazyTacoz/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/LazyTacoz/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/LazyTacoz/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
@@ -279,6 +280,7 @@
 | [0110-balanced-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/LazyTacoz/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -303,6 +305,7 @@
 | [0110-balanced-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/LazyTacoz/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -350,6 +353,7 @@
 | [0110-balanced-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/LazyTacoz/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -376,4 +380,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
