@@ -13,6 +13,31 @@
  *     }
  * }
  */
+ class Solution {
+    List<String> list = new ArrayList<>();
+    
+    public void helper(TreeNode root, StringBuilder sb) {
+        if(root == null) return;
+        
+        sb.append(root.val);
+        
+        if(root.left == null && root.right == null) {
+            list.add(sb.toString());
+            return;
+        }
+        
+        sb.append("->");
+        helper(root.left, new StringBuilder(sb));
+        helper(root.right, new StringBuilder(sb));
+    }
+    
+    public List<String> binaryTreePaths(TreeNode root) {
+        if(root == null) return new ArrayList<>();
+        helper(root, new StringBuilder());
+        return list;
+    }
+}
+ /*
 class Solution {
     List<String> list = new ArrayList<>();
     public void helper(TreeNode root,StringBuilder sb)
@@ -38,3 +63,4 @@ class Solution {
         return list;
     }
 }
+*/
