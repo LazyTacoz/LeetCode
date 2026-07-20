@@ -14,6 +14,29 @@
  * }
  */
  class Solution {
+    public List<String> binaryTreePaths(TreeNode root) {
+        List<String> list = new ArrayList<>();
+        dfs(root, "", list);
+        return list;
+    }
+    
+    public void dfs(TreeNode root, String path, List<String> list) {
+        if(root == null) return;
+        
+        path += root.val;
+        
+        if(root.left == null && root.right == null) {
+            list.add(path);
+            return;
+        }
+        
+        path += "->";
+        dfs(root.left, path, list);
+        dfs(root.right, path, list);
+    }
+}
+ /*
+ class Solution {
     List<String> list = new ArrayList<>();
     
     public void helper(TreeNode root, StringBuilder sb) {
@@ -37,7 +60,6 @@
         return list;
     }
 }
- /*
 class Solution {
     List<String> list = new ArrayList<>();
     public void helper(TreeNode root,StringBuilder sb)
