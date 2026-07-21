@@ -169,6 +169,7 @@
 | [0344-reverse-string](https://github.com/LazyTacoz/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/LazyTacoz/LeetCode/tree/master/0767-reorganize-string) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/LazyTacoz/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/LazyTacoz/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search
 |  |
@@ -287,6 +288,7 @@
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LazyTacoz/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/LazyTacoz/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
@@ -313,6 +315,7 @@
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LazyTacoz/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/LazyTacoz/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
@@ -361,6 +364,7 @@
 | [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/LazyTacoz/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -389,4 +393,5 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/LazyTacoz/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
