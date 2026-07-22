@@ -8,34 +8,11 @@ class Solution {
 
     public void inorder(TreeNode root)
     {
-        TreeNode curr = root;
-
-        while(curr != null)
-        {
-            if(curr.left == null)
-            {
-                process(curr.val);
-                curr = curr.right;
-            }
-            else
-            {
-                TreeNode ipre = ipre(curr);
-
-                if(ipre.right == null)
-                {
-                    ipre.right = curr;
-                    curr = curr.left;
-                }
-                else
-                {
-                    ipre.right = null;
-                    process(curr.val);
-                    curr = curr.right;
-                }
-            }
-        }
+        if(root == null) return;
+        inorder(root.left);
+        process(root.val);
+        inorder(root.right);
     }
-
     public void process(int val)
     {
         if(prev == null || prev != val)
@@ -59,19 +36,6 @@ class Solution {
             ans.add(val);
         }
     }
-
-    public TreeNode ipre(TreeNode node)
-    {
-        TreeNode prev = node.left;
-
-        while(prev.right != null && prev.right != node)
-        {
-            prev = prev.right;
-        }
-
-        return prev;
-    }
-
     public int[] findMode(TreeNode root)
     {
         inorder(root);
