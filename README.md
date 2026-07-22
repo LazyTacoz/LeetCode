@@ -289,6 +289,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/LazyTacoz/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -302,6 +303,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/LazyTacoz/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -318,6 +320,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/LazyTacoz/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -371,6 +374,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/LazyTacoz/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/LazyTacoz/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
