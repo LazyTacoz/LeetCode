@@ -17,10 +17,7 @@ class Solution {
     int res = 0;
     public int helper(TreeNode root)
     {
-        if(root == null)
-        {
-            return 0;
-        }
+        if(root == null) return 0;
         int a = helper(root.left);
         int b = helper(root.right);
         res = Math.max(res,a+b);
