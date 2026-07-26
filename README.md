@@ -295,6 +295,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LazyTacoz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/LazyTacoz/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LazyTacoz/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -337,6 +338,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LazyTacoz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/LazyTacoz/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LazyTacoz/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -397,6 +399,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LazyTacoz/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/LazyTacoz/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LazyTacoz/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -412,6 +415,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/LazyTacoz/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/LazyTacoz/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LazyTacoz/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/LazyTacoz/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Memoization
