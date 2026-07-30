@@ -11,13 +11,10 @@ class Solution {
             return;
         }
 
-        // Get letters corresponding to current digit
-        String letters = map.get(digits.charAt(curr_index));
-
-        // Try every letter
-        for(int i = 0; i < letters.length(); i++)
+        String letters  = map.get(digits.charAt(curr_index));
+        for(int i=0;i<letters.length(); i++)
         {
-            helper(digits, curr + letters.charAt(i), curr_index + 1);
+            helper(digits,curr+letters.charAt(i),curr_index+1);
         }
     }
 
