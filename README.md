@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/LazyTacoz/LeetCode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/LazyTacoz/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/LazyTacoz/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LazyTacoz/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -450,6 +451,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LazyTacoz/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/LazyTacoz/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/LazyTacoz/LeetCode/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/LazyTacoz/LeetCode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/LazyTacoz/LeetCode/tree/master/0257-binary-tree-paths) |
